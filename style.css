@@ -5,10 +5,28 @@
 
 .navbar-brand {
     color: #400E32;
-    font-size: 65px;
+    font-size: 40px;
 }
 
 .textx {
     font-family: Gabriola;
-    color: black;
+    font-size: 3vw;
+    color: white;
+    height: 750px;
+    padding-top: 75px;
+    padding-left: 30px;
+}
+
+.main-bg {
+    background-image: url("images/tax_resize2xx.jpg");
+}
+
+.footer {
+    background-color: #F2CD5C;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    color: white;
+    line-height: .3;
 }
